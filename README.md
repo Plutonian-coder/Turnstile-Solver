@@ -99,7 +99,7 @@ A Python-based Turnstile solver using the patchright library, featuring multi-th
 6. **Start testing**:
    - Run the script (Check [🔧 Command line arguments](#-command-line-arguments) for better setup):
      ```bash
-     python api_solver.py
+     python turn.py serve
      ```
      
 ---
